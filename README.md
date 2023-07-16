@@ -1,5 +1,7 @@
 # Tamil-Handwritten-Character-Recognition
 
+<p align="center"><img src="https://github.com/Darshini0402/Tamil-Handwritten-Character-Recognition/assets/79263421/8276d228-36c7-4d1d-b336-60a7e7914421" width=200></p>
+
 The recognition of Tamil manuscript characters is a crucial task with applications in fields such as digitization of historical texts and preservation of cultural heritage. This method proposes a novel approach to recognize Tamil manuscript characters using convolutional neural networks (CNNs).
 
 ## Project Details
